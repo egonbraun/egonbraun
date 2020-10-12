@@ -29,11 +29,11 @@
 ---
 
 ### 📕 Latest Blog Posts
+- [.](https://medium.com/@egonbraun/-a1543fea30e6)
+- [Darling](https://medium.com/@egonbraun/darling-4095afbbd42f)
+- [The Algorithm](https://medium.com/@egonbraun/the-algorithm-87dd61d54e47)
 - [A Tribute to Gamers](https://medium.com/@egonbraun/a-tribute-to-gamers-d4ed697956b2)
 - [Pray](https://medium.com/@egonbraun/pray-bbb3add49bc7)
-- [Dreams](https://medium.com/@egonbraun/dreams-3e0f0ec0f7de)
-- [Monsters](https://medium.com/@egonbraun/monsters-8ac40eeadd15)
-- [Building a Test Culture](https://stories.schubergphilis.com/building-a-test-culture-a9386ab7c8aa)
 
 ---
 
