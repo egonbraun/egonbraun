@@ -28,13 +28,4 @@
 
 ---
 
-### 📕 Latest Blog Posts
-- [.](https://medium.com/@egonbraun/-a1543fea30e6)
-- [Darling](https://medium.com/@egonbraun/darling-4095afbbd42f)
-- [The Algorithm](https://medium.com/@egonbraun/the-algorithm-87dd61d54e47)
-- [A Tribute to Gamers](https://medium.com/@egonbraun/a-tribute-to-gamers-d4ed697956b2)
-- [Pray](https://medium.com/@egonbraun/pray-bbb3add49bc7)
-
----
-
 [![egonbraun's github stats](https://github-readme-stats.vercel.app/api?username=egonbraun&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
